@@ -1,0 +1,14 @@
+[project]
+name = "dpsp-legacy-command"
+version = "1.0.0"
+description = "DPSP Legacy Command"
+requires-python = ">=3.10"
+dependencies = [
+  "flet==0.28.3"
+]
+
+[tool.flet]
+org = "com.dpsp"
+product = "DPSP Legacy Command"
+company = "DPSP"
+copyright = "DPSP"
